@@ -42,3 +42,6 @@ Inj3ctScan: A Python-based web vulnerability scanner. Tests for SQLi, XSS, Comma
       Evidence: <html><script>alert('xss')</script>...
    [+] Completed: Completed
    [+] Results saved to scan_results.json
+![Screenshot 2025-02-20 214621](https://github.com/user-attachments/assets/fa5f0cc4-ff65-4ba0-813a-9ff472f448c9)
+
+
